@@ -1,4 +1,4 @@
-# Doggonation - Where Dogs and Their Owners Unite: Welcome to Doggonation 
+# PAWNFT - Where Dogs and Their Owners Unite: Welcome to PAWNFT
 <br/>
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
@@ -27,9 +27,7 @@ With Doggonation, you'll join a vibrant community that celebrates everything abo
   <li>🔍 Employ Image Analysis to Detect and Prevent Inappropriate Content</li>
   
 
-  <li>Firebase auth for Google and Facebook</li>
-</ul>
-<h2>Firebase auth for Google and Facebook </h2>
+
 <p>This project utilizes Firebase Authentication for user authentication, specifically for Google and Facebook sign in. Firebase Authentication provides a secure and easy-to-use way to authenticate users, and supports multiple authentication providers, including email and password, phone number, and third-party providers like Google and Facebook.</p>
     <p>To implement Firebase Authentication in this project, we followed the guidelines and best practices outlined in the Firebase Authentication documentation. You can find more information about Firebase Authentication and how to use it in your own projects in the official Firebase Authentication documentation.</p>
     <p>We believe that Firebase Authentication provides a robust and reliable authentication solution that meets the needs of our project and our users. By leveraging Firebase Authentication, we can ensure that user data is secure and protected, and that our application is easy to use and access for all of our users.</p>
