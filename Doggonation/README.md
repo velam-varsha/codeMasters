@@ -12,10 +12,6 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/doggonation-612e8.appspot.com/o/helper%20folder%2Flogo-no-background.png?alt=media&token=25c940c0-1d8a-4d47-b117-426b73e9eff7">
 
 
-
-
-
-
 <p> Welcome to Doggonation, the ultimate innovative social media platform designed exclusively for dog owners and enthusiasts ! Whether you're looking to connect with fellow dog lovers, share adorable photos of your furry friends, or seek expert advice on canine care, Doggonation is the place to be.
 With Doggonation, you'll join a vibrant community that celebrates everything about dogs. It also features an array of cutting-edge functionalities that facilitate a safe and enjoyable user experience. </p>
 
