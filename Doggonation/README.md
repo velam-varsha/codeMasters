@@ -177,6 +177,16 @@ Here's another image that shows the word cloud generated from our dataset:
 
 <p>Metamask is a popular browser extension wallet that acts as a bridge between our platform and the Ethereum blockchain. It enables our users to securely manage their digital assets and interact with decentralized applications (DApps) seamlessly. By integrating Metamask, we provide a user-friendly and intuitive interface for users to connect their Ethereum wallets, sign transactions, and manage their NFT ownership effortlessly.</p>
 
+## Blockchain Ledgers 
+<p>Our platform operates on the Ethereum blockchain, one of the most prominent and widely adopted blockchain networks. Ethereum's smart contract functionality allows us to create and manage NFTs in a decentralized and trustless manner. Each NFT created on our platform is associated with a unique token ID, which is stored on the Ethereum blockchain. This ensures the authenticity, provenance, and scarcity of each NFT, enabling users to truly own and trade digital assets with confidence.</p>
+
+## Decentralized Ledger Technology 
+<p>By leveraging decentralized ledger technology, we empower users to have full control and ownership of their NFTs. The transparency and immutability provided by blockchain enable users to verify the authenticity and ownership history of each NFT. This not only establishes trust but also opens up exciting opportunities for creators and collectors to participate in a thriving digital marketplace.</p>
+
+## Enhanced Security and Royalty Mechanism 
+<p>With the integration of blockchain technology, we can implement robust security measures and royalty mechanisms. The immutable nature of the blockchain ensures that once an NFT is minted, its ownership cannot be tampered with or disputed. Additionally, our platform incorporates royalty mechanisms, ensuring that creators receive royalties whenever their NFTs are sold or traded, providing a fair and sustainable ecosystem for artists and content creators.</p>
+
+
 
 <h1>Frontend</h1>
 
