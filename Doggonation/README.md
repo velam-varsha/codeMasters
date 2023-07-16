@@ -1,20 +1,10 @@
-# Doggonation - Where Dogs and Their Owners Unite: Welcome to Doggonation (Looking for frontend devs)
+# Doggonation - Where Dogs and Their Owners Unite: Welcome to Doggonation 
 <br/>
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
   <br/>
-  <img src="https://img.shields.io/github/repo-size/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues-closed-raw/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues-pr/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/contributors/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues-pr-closed-raw/akashgreninja/Doggonation?style=for-the-badge" />
   
 </div>
 <br/>
@@ -23,7 +13,6 @@
 
 
 
-<h2> This Project is not completed yet,its UI is still in Progress . Feel free to contact me through my  email mentioned on my Github Profile for any type of support or help.  </h2>
 
 
 
