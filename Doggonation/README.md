@@ -172,11 +172,13 @@ Here's another image that shows the word cloud generated from our dataset:
 
 <p>For more details on how to use Flask-SocketIO and its various features, refer to the official <a href="https://flask-socketio.readthedocs.io/">Flask-SocketIO documentation</a>.</p>
 
-<h1>Getting Started</h1>
 
-<p>To get started with this project, follow the instructions below.</p>
+## Metamask 
 
-<h2>Frontend</h2>
+<p>Metamask is a popular browser extension wallet that acts as a bridge between our platform and the Ethereum blockchain. It enables our users to securely manage their digital assets and interact with decentralized applications (DApps) seamlessly. By integrating Metamask, we provide a user-friendly and intuitive interface for users to connect their Ethereum wallets, sign transactions, and manage their NFT ownership effortlessly.</p>
+
+
+<h1>Frontend</h1>
 
 <ol>
   <li>Navigate to the <code>frontend</code> folder:</li>
@@ -191,7 +193,7 @@ Here's another image that shows the word cloud generated from our dataset:
 
 <p>The frontend application will be running at <a href="http://localhost:3000">http://localhost:3000</a>.</p>
 
-<h2>Backend</h2>
+<h1>Backend</h1>
 
 <ol>
   <li>Navigate to the <code>backend</code> folder:</li>
