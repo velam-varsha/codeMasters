@@ -184,7 +184,7 @@ Here's another image that shows the word cloud generated from our dataset:
 <p>By leveraging decentralized ledger technology, we empower users to have full control and ownership of their NFTs. The transparency and immutability provided by blockchain enable users to verify the authenticity and ownership history of each NFT. This not only establishes trust but also opens up exciting opportunities for creators and collectors to participate in a thriving digital marketplace.</p>
 
 ## Enhanced Security and Royalty Mechanism 
-<p>With the integration of blockchain technology, we can implement robust security measures and royalty mechanisms. The immutable nature of the blockchain ensures that once an NFT is minted, its ownership cannot be tampered with or disputed. Additionally, our platform incorporates royalty mechanisms, ensuring that creators receive royalties whenever their NFTs are sold or traded, providing a fair and sustainable ecosystem for artists and content creators.</p>
+<p>With the integration of blockchain technology, we can implement robust security measures and royalty mechanisms. The immutable nature of the blockchain ensures that once an NFT is minted, its ownership cannot be tampered with or disputed. Additionally, our platform incorporates royalty mechanisms, ensuring that creators receive royalties whenever their NFTs are sold or traded, providing a fair and sustainable ecosystem for artists and content creators</p>
 
 
 
